@@ -6,8 +6,10 @@
 </p>
 <hr>
 <p align="center">Youtube Video :- </p>
-## 📹 Demo and programing Video
-[![Watch the video](https://img.youtube.com/vi/zHUUTGQWjrM/hqdefault.jpg)](https://youtu.be/zHUUTGQWjrM?si=_7d4mSjhJZZwqSDE)
+## 📹 Demo Video
+[![Watch the video](![image](https://github.com/user-attachments/assets/1ca21f4f-31d9-4f22-8812-5801ec2a5e33)
+)](https://youtu.be/zHUUTGQWjrM?si=_7d4mSjhJZZwqSDE)
+
 
 <hr>
 
