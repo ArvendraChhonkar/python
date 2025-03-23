@@ -7,8 +7,8 @@
 <hr>
 <p align="center">Youtube Video :- </p>
 ## 📹 Demo Video
-[![Watch the video](![image](https://github.com/user-attachments/assets/1ca21f4f-31d9-4f22-8812-5801ec2a5e33)
-)](https://youtu.be/zHUUTGQWjrM?si=_7d4mSjhJZZwqSDE)
+![image](https://github.com/user-attachments/assets/dfc3bde2-1987-4b57-96cc-33a8931a8618)
+
 
 
 <hr>
