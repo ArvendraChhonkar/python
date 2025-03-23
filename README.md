@@ -4,6 +4,10 @@
     This is a <strong>real-time chat application</strong> built using <strong>Python sockets</strong> for communication between a client and a server. 
     The client interface is designed with <strong>PyQt5/QtPy</strong>, providing an intuitive and responsive GUI for sending and receiving messages.
 </p>
+<hr>
+<p align="center">Youtube Video :- </p>
+## 📹 Demo and programing Video
+[![Watch the video](https://img.youtube.com/vi/zHUUTGQWjrM/hqdefault.jpg)](https://youtu.be/zHUUTGQWjrM?si=_7d4mSjhJZZwqSDE)
 
 <hr>
 
